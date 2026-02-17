@@ -10,11 +10,13 @@
 
 * [Azure](cloud/azure/README.md)
   * [Azure CLI MFA Auth](cloud/azure/azure-cli-mfa-auth.md)
-* [AWS](cloud/untitled.md)
+* [AWS](cloud/untitled/README.md)
+  * [Tools](cloud/untitled/tools.md)
 
 ## Mobile
 
-* [Untitled](mobile/untitled.md)
+* [Setting up an Android Virtual Device](mobile/untitled.md)
+* [Tools](mobile/tools.md)
 
 ## Bash Trickery
 
@@ -53,3 +55,7 @@
 ## CIS Benchmarks
 
 * [handy link to download](cis-benchmarks/handy-link-to-download.md)
+
+## Wifi
+
+* [Page 2](wifi/page-2.md)
